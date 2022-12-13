@@ -1,6 +1,9 @@
 # html-refactor
 ## Horiseon landing page html-refactor
 
+## Deployed link(s)
+Live page: https://ag-93.github.io/html-refactor/ 
+Github repo: https://github.com/AG-93/html-refactor.git 
 
 ## Description
 
@@ -13,11 +16,11 @@ My challenge was to understand how the changes made on html affects css styleshe
 
  ## Installation
 For accessing my project's landing page: 
-1. Please click on the following link: 
+1. Please click on the following link: https://ag-93.github.io/html-refactor/ 
 
 For accessing my github repo:
 1. Create a Github account. 
-2. Please click on the following link : (link here). 
+2. Please click on the following link : https://github.com/AG-93/html-refactor.git  
 3. Please click index.html to read my refactored code.
 4. Please click assests folder then css folder to acess the style.css to read my refactored css.
 
